@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba del M2 del PrepCourse de SoyHenry
+Este proyecto es una prueba de como crear un repositorio y clonarlo en mi computador.
